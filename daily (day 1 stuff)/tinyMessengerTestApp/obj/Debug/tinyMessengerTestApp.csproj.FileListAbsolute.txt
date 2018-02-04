@@ -1,0 +1,6 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\tinyMessengerTestApp\bin\Debug\tinyMessengerTestApp.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\tinyMessengerTestApp\bin\Debug\tinyMessengerTestApp.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\tinyMessengerTestApp\bin\Debug\tinyMessengerTestApp.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\tinyMessengerTestApp\obj\Debug\tinyMessengerTestApp.csprojResolveAssemblyReference.cache
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\tinyMessengerTestApp\obj\Debug\tinyMessengerTestApp.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\tinyMessengerTestApp\obj\Debug\tinyMessengerTestApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restApiClient_willSee\bin\Debug\restApiClient_willSee.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restApiClient_willSee\bin\Debug\restApiClient_willSee.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restApiClient_willSee\bin\Debug\restApiClient_willSee.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restApiClient_willSee\obj\Debug\restApiClient_willSee.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restApiClient_willSee\obj\Debug\restApiClient_willSee.pdb

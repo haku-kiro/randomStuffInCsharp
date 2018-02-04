@@ -1,0 +1,6 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\cmdUtil fileSizeTotal\bin\Debug\cmdUtil fileSizeTotal.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\cmdUtil fileSizeTotal\bin\Debug\cmdUtil fileSizeTotal.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\cmdUtil fileSizeTotal\bin\Debug\cmdUtil fileSizeTotal.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\cmdUtil fileSizeTotal\obj\Debug\cmdUtil fileSizeTotal.csprojResolveAssemblyReference.cache
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\cmdUtil fileSizeTotal\obj\Debug\cmdUtil fileSizeTotal.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\cmdUtil fileSizeTotal\obj\Debug\cmdUtil fileSizeTotal.pdb

@@ -1,0 +1,5 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\MessengerPublisher\bin\Debug\MessengerPublisher.dll
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\MessengerPublisher\bin\Debug\MessengerPublisher.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\MessengerPublisher\obj\Debug\MessengerPublisher.csprojResolveAssemblyReference.cache
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\MessengerPublisher\obj\Debug\MessengerPublisher.dll
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\MessengerPublisher\obj\Debug\MessengerPublisher.pdb

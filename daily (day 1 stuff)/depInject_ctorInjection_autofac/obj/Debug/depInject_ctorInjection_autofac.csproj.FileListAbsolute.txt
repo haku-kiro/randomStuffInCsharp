@@ -1,0 +1,8 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\bin\Debug\depInject_ctorInjection_autofac.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\bin\Debug\depInject_ctorInjection_autofac.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\bin\Debug\depInject_ctorInjection_autofac.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\bin\Debug\Autofac.dll
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\bin\Debug\Autofac.xml
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\obj\Debug\depInject_ctorInjection_autofac.csprojResolveAssemblyReference.cache
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\obj\Debug\depInject_ctorInjection_autofac.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\depInject_ctorInjection_autofac\obj\Debug\depInject_ctorInjection_autofac.pdb

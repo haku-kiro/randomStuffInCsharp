@@ -1,0 +1,10 @@
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\restapiConsoleHost.exe.config
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\restapiConsoleHost.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\restapiConsoleHost.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\Nancy.dll
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\Nancy.xml
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\obj\Debug\restapiConsoleHost.exe
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\obj\Debug\restapiConsoleHost.pdb
+C:\Users\7HE GH0S7\Documents\Visual Studio 2015\dailies\daily (day 1 stuff)\restapiConsoleHost\obj\Debug\restapiConsoleHost.csprojResolveAssemblyReference.cache
